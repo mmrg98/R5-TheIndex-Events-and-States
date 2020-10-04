@@ -1,6 +1,6 @@
 ## Setup
 
-1. Fork the [repository](https://github.com/JoinCODED/RJS4-TheIndex-Events-and-States)
+1. Fork the [repository](https://github.com/JoinCODED/R5-TheIndex-Events-and-States)
 2. Clone it.
 3. `cd` into the project directory.
 4. Install the required packages for the task.
